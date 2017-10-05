@@ -1,0 +1,95 @@
+
+
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+}
+h2 {
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/bill.gif");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  font-family: Bookman Old Style; 
+
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: black;
+  text-align: center;
+}
+.card{
+  padding: 30px;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 5px;
+
+}
+
+#footer a {
+color: black;
+font-size: 40px;
+
+}
+
+#banner a {
+color: black;
+font-size: 30px;
+
+}
+
+
+#footer a:hover {
+  color: white;
+}
+
+#banner a:hover {
+  color: white; 
+}
+
+#footer{
+  background-color: rgba(169, 169, 169, 0.3);
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+#wufoo-q1t93vi400yvc7s{
+  border: 10px blue;
+  border:10px silver groove; 
+}
+
